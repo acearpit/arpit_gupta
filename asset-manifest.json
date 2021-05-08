@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/arpit_gupta/static/css/main.59223b89.chunk.css",
-    "main.js": "/arpit_gupta/static/js/main.99944c9b.chunk.js",
-    "main.js.map": "/arpit_gupta/static/js/main.99944c9b.chunk.js.map",
+    "main.js": "/arpit_gupta/static/js/main.6d3b1850.chunk.js",
+    "main.js.map": "/arpit_gupta/static/js/main.6d3b1850.chunk.js.map",
     "runtime-main.js": "/arpit_gupta/static/js/runtime-main.995bf582.js",
     "runtime-main.js.map": "/arpit_gupta/static/js/runtime-main.995bf582.js.map",
     "static/js/2.e2d8739b.chunk.js": "/arpit_gupta/static/js/2.e2d8739b.chunk.js",
     "static/js/2.e2d8739b.chunk.js.map": "/arpit_gupta/static/js/2.e2d8739b.chunk.js.map",
     "index.html": "/arpit_gupta/index.html",
-    "precache-manifest.975f26a50265a58f05f13b10246bae11.js": "/arpit_gupta/precache-manifest.975f26a50265a58f05f13b10246bae11.js",
+    "precache-manifest.6a68f41ac54b3e2634e0406e9aa272f0.js": "/arpit_gupta/precache-manifest.6a68f41ac54b3e2634e0406e9aa272f0.js",
     "service-worker.js": "/arpit_gupta/service-worker.js",
     "static/css/main.59223b89.chunk.css.map": "/arpit_gupta/static/css/main.59223b89.chunk.css.map",
     "static/js/2.e2d8739b.chunk.js.LICENSE.txt": "/arpit_gupta/static/js/2.e2d8739b.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.995bf582.js",
     "static/js/2.e2d8739b.chunk.js",
     "static/css/main.59223b89.chunk.css",
-    "static/js/main.99944c9b.chunk.js"
+    "static/js/main.6d3b1850.chunk.js"
   ]
 }
