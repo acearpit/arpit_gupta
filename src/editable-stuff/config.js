@@ -37,7 +37,7 @@ const about = {
   imageLink: require("../assets/img/arpitgupta.jpg"),
   imageSize: 375,
   message:
-    "Hi, my name is Arpit Gupta. I’m an engineering student of 2022 batch from Guru Gobind Singh Indraprastha University at New Delhi, pursuing a degree in Information Technology in B.Tech. I'm passionate about building usefull and highly scalable web apps and would love to talk about any opportunity.",
+    "Hi, my name is Arpit Gupta. I’m an engineering student of 2022 batch from Guru Gobind Singh Indraprastha University at New Delhi. I'm passionate about building useful and highly scalable web apps and would love to talk about anything interesting.",
   resume: "https://drive.google.com/file/d/1rKwvGSDKMU7Vl3HnDTTt3Rn6YKvF-7fD/view?usp=sharing",
 };
 
