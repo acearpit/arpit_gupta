@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/arpit_gupta/static/css/main.42513db5.chunk.css",
+    "main.js": "/arpit_gupta/static/js/main.956e2a99.chunk.js",
+    "main.js.map": "/arpit_gupta/static/js/main.956e2a99.chunk.js.map",
+    "runtime-main.js": "/arpit_gupta/static/js/runtime-main.995bf582.js",
+    "runtime-main.js.map": "/arpit_gupta/static/js/runtime-main.995bf582.js.map",
+    "static/js/2.e2d8739b.chunk.js": "/arpit_gupta/static/js/2.e2d8739b.chunk.js",
+    "static/js/2.e2d8739b.chunk.js.map": "/arpit_gupta/static/js/2.e2d8739b.chunk.js.map",
+    "index.html": "/arpit_gupta/index.html",
+    "precache-manifest.95fdaaad0fbed9f753e577b9fe9811e2.js": "/arpit_gupta/precache-manifest.95fdaaad0fbed9f753e577b9fe9811e2.js",
+    "service-worker.js": "/arpit_gupta/service-worker.js",
+    "static/css/main.42513db5.chunk.css.map": "/arpit_gupta/static/css/main.42513db5.chunk.css.map",
+    "static/js/2.e2d8739b.chunk.js.LICENSE.txt": "/arpit_gupta/static/js/2.e2d8739b.chunk.js.LICENSE.txt",
+    "static/media/arpitgupta.jpg": "/arpit_gupta/static/media/arpitgupta.85ba870f.jpg",
+    "static/media/sigaram.jpg": "/arpit_gupta/static/media/sigaram.6660f2b6.jpg",
+    "static/media/vkarma.png": "/arpit_gupta/static/media/vkarma.e0191683.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995bf582.js",
+    "static/js/2.e2d8739b.chunk.js",
+    "static/css/main.42513db5.chunk.css",
+    "static/js/main.956e2a99.chunk.js"
+  ]
+}
