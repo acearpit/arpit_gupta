@@ -1,6 +1,3 @@
-PROJECT LOGO
-<br />
-
 <p align="center">
   <h1 align="center">Arpit's Portfolio ✨</h1>
   <p align="center">
@@ -22,14 +19,8 @@ PROJECT LOGO
 
 - [Technology Stack 🛠️](#technology-stack-)
 - [Structure ⚓](#structure-)
-- [Sharing 💗](#sharing-)
-- [Prerequisites 🍪](#prerequisites-)
-- [Setup And Deployment 🔧](#setup-and-deployment-)
 - [Contributing 🙌](#contributing-)
-- [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
 - [Showcase 🚀](#showcase-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
 
 ## Technology Stack 🛠️
 
