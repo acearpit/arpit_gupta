@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/arpit_gupta/static/css/main.59223b89.chunk.css",
-    "main.js": "/arpit_gupta/static/js/main.8235f352.chunk.js",
-    "main.js.map": "/arpit_gupta/static/js/main.8235f352.chunk.js.map",
-    "runtime-main.js": "/arpit_gupta/static/js/runtime-main.995bf582.js",
-    "runtime-main.js.map": "/arpit_gupta/static/js/runtime-main.995bf582.js.map",
-    "static/js/2.e2d8739b.chunk.js": "/arpit_gupta/static/js/2.e2d8739b.chunk.js",
-    "static/js/2.e2d8739b.chunk.js.map": "/arpit_gupta/static/js/2.e2d8739b.chunk.js.map",
-    "index.html": "/arpit_gupta/index.html",
-    "precache-manifest.68d9e4300f837e0c22eebf31783520bd.js": "/arpit_gupta/precache-manifest.68d9e4300f837e0c22eebf31783520bd.js",
-    "service-worker.js": "/arpit_gupta/service-worker.js",
-    "static/css/main.59223b89.chunk.css.map": "/arpit_gupta/static/css/main.59223b89.chunk.css.map",
-    "static/js/2.e2d8739b.chunk.js.LICENSE.txt": "/arpit_gupta/static/js/2.e2d8739b.chunk.js.LICENSE.txt",
-    "static/media/arpitgupta_1.jpg": "/arpit_gupta/static/media/arpitgupta_1.fb312ba0.jpg",
-    "static/media/sigaram.jpg": "/arpit_gupta/static/media/sigaram.6660f2b6.jpg",
-    "static/media/vkarma.png": "/arpit_gupta/static/media/vkarma.e0191683.png"
+    "main.css": "/static/css/main.59223b89.chunk.css",
+    "main.js": "/static/js/main.0f67475e.chunk.js",
+    "main.js.map": "/static/js/main.0f67475e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.01c2824e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.01c2824e.js.map",
+    "static/js/2.e2d8739b.chunk.js": "/static/js/2.e2d8739b.chunk.js",
+    "static/js/2.e2d8739b.chunk.js.map": "/static/js/2.e2d8739b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bef04a3b095f86044791f6fe6d107084.js": "/precache-manifest.bef04a3b095f86044791f6fe6d107084.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.59223b89.chunk.css.map": "/static/css/main.59223b89.chunk.css.map",
+    "static/js/2.e2d8739b.chunk.js.LICENSE.txt": "/static/js/2.e2d8739b.chunk.js.LICENSE.txt",
+    "static/media/arpitgupta_1.jpg": "/static/media/arpitgupta_1.fb312ba0.jpg",
+    "static/media/sigaram.jpg": "/static/media/sigaram.6660f2b6.jpg",
+    "static/media/vkarma.png": "/static/media/vkarma.e0191683.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.995bf582.js",
+    "static/js/runtime-main.01c2824e.js",
     "static/js/2.e2d8739b.chunk.js",
     "static/css/main.59223b89.chunk.css",
-    "static/js/main.8235f352.chunk.js"
+    "static/js/main.0f67475e.chunk.js"
   ]
 }
