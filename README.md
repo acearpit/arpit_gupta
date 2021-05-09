@@ -2,10 +2,10 @@
   <h1 align="center">Arpit's Portfolio ✨</h1>
   <p align="center">
     It is a personal website/portfolio template built using React.js and hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://acearpit.github.io/arpit_gupta/">acearpit.github.io/arpit_gupta/</a>
+    <a href="https://arpitgupta.ga">arpitgupta.ga</a>
     <br />
     <br />
-    <a href="https://acearpit.github.io/arpit_gupta/#aboutme">About Me</a>
+    <a href="https://arpitgupta.ga/#aboutme">About Me</a>
     ·
     <a href="https://github.com/acearpit/arpit_gupta/issues">Report Bug</a>
     ·
@@ -38,15 +38,14 @@
   - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
   - Resume | About me
 - About Me
-  - Display picture (optional)
+  - Display picture
   - About myself, my Interests, Goals and Hobbies
-  - Things I'm good at (Skills)
   - Resume button
 - Recent Projects
 - Skills
   - Technical Skills
   - Soft Skills
-- Footer Copyright
+- Copyright
 
 ## Contributing 🙌
 
