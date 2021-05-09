@@ -28,7 +28,7 @@ const App = () => {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL + "/"}>
       {navBar.show && <Navbar ref={titleRef} />}
-      <Route path="/" exact component={() => <Home ref={titleRef} />} />
+      <Route path="/" component={() => <Home ref={titleRef} />} />
       <Footer>{getInTouch.show && <GetInTouch heading={getInTouch.heading} message={getInTouch.message} email={getInTouch.email} />}</Footer>
     </BrowserRouter>
   );
