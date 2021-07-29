@@ -26,7 +26,7 @@ const App = () => {
   const titleRef = React.useRef();
 
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL + "/"}>
+    <BrowserRouter basename={process.env.PUBLIC_URL + "/arpit_gupta/"}>
       {navBar.show && <Navbar ref={titleRef} />}
       <Route path="/" component={() => <Home ref={titleRef} />} />
       <Footer>{getInTouch.show && <GetInTouch heading={getInTouch.heading} message={getInTouch.message} email={getInTouch.email} />}</Footer>
