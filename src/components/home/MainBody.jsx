@@ -22,7 +22,7 @@ const MainBody = React.forwardRef(
           </h1>
           <Typist className="lead typist" style={{fontSize: '4em', fontWeight: 'bold'}} cursor={{ show: false }}>
             {" "}
-            {message}
+            <strong>{message}</strong>
           </Typist>
           <div className="p-5">
             {icons.map((icon, index) => (

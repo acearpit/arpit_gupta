@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Arpit",
   middleName: "",
   lastName: "Gupta",
-  message: "Engineer | Programmer | Web Developer",
+  message: "Developer | Engineer",
   icons: [
     {
       image: "fa-linkedin",
