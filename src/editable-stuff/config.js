@@ -34,7 +34,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../assets/img/arpitgupta_1.jpg"),
+  imageLink: require("../assets/img/arpitgupta_2.png"),
   imageSize: 375,
   message:
     "Hi, my name is Arpit Gupta. I’m an engineering student of 2022 batch from Guru Gobind Singh Indraprastha University at New Delhi. I'm passionate about building useful and highly scalable web apps and would love to talk about anything interesting.",
